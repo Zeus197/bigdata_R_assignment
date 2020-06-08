@@ -1,2 +1,1 @@
-# bigdata_R_assignment
-# mongodb_assignment
+#Big data assignments from the course Big Data
